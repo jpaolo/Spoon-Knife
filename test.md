@@ -4,7 +4,3 @@ see lasdfkjklsdfj if i can commit to master branch directly....
 
 
 let's test more about: see if i can commit to master branch directly....
-
-
-
-now there's a change committed to master
